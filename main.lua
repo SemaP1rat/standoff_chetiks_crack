@@ -10,16 +10,16 @@ print'░╚═══██╗██║╚████║██╔══╝░�
 print'██████╔╝██║░╚███║███████╗███████╗░░░██║░░░██╗██║░░░░░╚██████╔╝██████╦╝'
 print'╚═════╝░╚═╝░░╚══╝╚══════╝╚══════╝░░░╚═╝░░░╚═╝╚═╝░░░░░░╚═════╝░╚═════╝░'
 ------------------------------
-Tab:AddButton({ Name = "ESP&hitboxHEAD(rage=7zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NNlove101011/test2/main/lua", true))() end })
+Tab:AddButton({ Name = "ESP&hitboxHEAD(rage=7zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/SemaP1rat/standoff_chetiks_crack/main/prikol.lua", true))() end })
 ------------------------------
-Tab:AddButton({ Name = "ESP&hitboxHEAD(small heads=5zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NNlove101011/test2/main/lua", true))() end })
+Tab:AddButton({ Name = "ESP&hitboxHEAD(small heads=5zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/SemaP1rat/standoff_chetiks_crack/main/prikol.lua", true))() end })
 ------------------------------
-Tab:AddButton({ Name = "ESP&hitbox body(medium=7 zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NNlove101011/Hitbox-/main/lua", true))() end})
+Tab:AddButton({ Name = "ESP&hitbox body(medium=7 zxy; possible ban)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/SemaP1rat/standoff_chetiks_crack/main/prikol2.lua", true))() end})
 ------------------------------
-Tab:AddButton({ Name = "ESP&Hitbox body(legit)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/NNlove101011/Hitvox-legit/main/lua", true))() end})
+Tab:AddButton({ Name = "ESP&Hitbox body(legit)", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/SemaP1rat/standoff_chetiks_crack/main/prikol3.lua", true))() end})
 ------------------------------
 local Tab = Window:MakeTab({ Name = "Visual", Icon = "rbxassetid://4483345998", PremiumOnly = false })
 ------------------------------
 Tab:AddButton({ Name = "Night vision", Callback = function() local Light = game:GetService("Lighting") function dofullbright() Light.Ambient = Color3.new(1, 1, 1) Light.ColorShift_Bottom = Color3.new(1, 1, 1) Light.ColorShift_Top = Color3.new(1, 1, 1)end dofullbright() Light.LightingChanged:Connect(dofullbright) end }) --[[ Name = - The name of the button. Callback = - The function of the button. ]]
 ------------------------------
-Tab:AddButton({ Name = "Crosshair", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Crosshair-Script/main/Crosshair.lua"))() end})
+Tab:AddButton({ Name = "Crosshair", Callback = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/SemaP1rat/standoff_chetiks_crack/main/crosshair.lua"))() end})
